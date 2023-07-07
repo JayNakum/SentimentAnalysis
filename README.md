@@ -1,2 +1,1 @@
-# SentimentAnalysis
-Cloud Project
+Cloud Computing Project
